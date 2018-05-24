@@ -1,3 +1,3 @@
 # git-jv-smp
 
-Node.js and Coffescript. Moon and earth tacos.
+Node.js and Coffeescript. Moon and earth tacos.
